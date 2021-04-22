@@ -41,14 +41,13 @@ To get an overview of sqlmap capabilities, a list of supported features, and a d
 Links
 ----
 
-* Homepage: http://sqlmap.org
+* Homepage: https://www.facebook.com/nonamedatv
 * Download: [.tar.gz](https://github.com/sqlmapproject/sqlmap/tarball/master) or [.zip](https://github.com/sqlmapproject/sqlmap/zipball/master)
 * Commits RSS feed: https://github.com/sqlmapproject/sqlmap/commits/master.atom
 * Issue tracker: https://github.com/sqlmapproject/sqlmap/issues
-* User's manual: https://github.com/sqlmapproject/sqlmap/wiki
 * Frequently Asked Questions (FAQ): https://github.com/sqlmapproject/sqlmap/wiki/FAQ
 * Twitter: [@sqlmap](https://twitter.com/sqlmap)
-* Demos: [http://www.youtube.com/user/inquisb/videos](http://www.youtube.com/user/inquisb/videos)
+* Instagram: [@kanz_vdat](https://www.instagram.com/kanz_vdat/)
 * Screenshots: https://github.com/sqlmapproject/sqlmap/wiki/Screenshots
 
 Translations
